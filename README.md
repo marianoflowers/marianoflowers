@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hola! Soy Mariano  👋
+
+- 🔭 Actualmente trabajando en SuSTI (Subsecretaría de Sistemas y Tecnologías de la Información)
+- 🌱 Colaborando con sistemas desarrollados en Laravel, con conexiones MySQL y Postgres
+
+Puedes encontrarme en:
+-[Twitter](https://twitter.com/marianoflowers)
 
 <!--
 **marianoflowers/marianoflowers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
