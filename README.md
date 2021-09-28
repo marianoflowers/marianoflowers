@@ -1,6 +1,6 @@
 ### Hola! Soy Mariano  👋
 
-![me](https://drive.google.com/file/d/1GqxuwcXnExqyDQVKcrYRS8d48cehPM-b/view?usp=sharing)
+![me](https://user-images.githubusercontent.com/75759922/134816735-ce4a2bfd-ae3e-4c50-941e-7bb8ffda68dd.png)
 
 - 💼 Actualmente trabajando en SuSTI (Subsecretaría de Sistemas y Tecnologías de la Información) como desarrollador backend
 - 👯 Colaborando con sistemas desarrollados en Laravel, con conexiones MySQL y Postgres
