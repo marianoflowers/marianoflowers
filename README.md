@@ -2,8 +2,9 @@
 
 ![me](https://user-images.githubusercontent.com/75759922/134816735-ce4a2bfd-ae3e-4c50-941e-7bb8ffda68dd.png)
 
-- 💼 Actualmente trabajando en SuSTI (Subsecretaría de Sistemas y Tecnologías de la Información) como desarrollador backend
-- 👯 Colaborando con sistemas desarrollados en Laravel, con conexiones MySQL y Postgres
+- 💼 Anteriormente trabajando en SuSTI (Subsecretaría de Sistemas y Tecnologías de la Información) como desarrollador backend
+- 💼 Actualmente trabajando en Compañía Baires backend en PHP y frontend jQuery
+- 👯 Colaborando con sistemas desarrollados en Laravel, con conexiones MySQL y Postgresql
 
 <!--
 **marianoflowers/marianoflowers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
